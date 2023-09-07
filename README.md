@@ -51,4 +51,4 @@ Due to time constraints and my limited recent exposure to the 'testing' topic, t
 Thank you for considering this API project for your job application. If you have any questions, please feel free to reach out. I appreciate your time and consideration.
 
 Best regards,
-[Giulia Moscoso]
+_Giulia Moscoso_
