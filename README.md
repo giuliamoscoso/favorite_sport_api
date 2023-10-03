@@ -1,4 +1,4 @@
-# API Project Readme
+# API Project
 
 [![Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-blue)](README.pt.md) [![English](https://img.shields.io/badge/Language-English-green)](README.md)
 
@@ -43,14 +43,3 @@ The API exposes the following endpoints:
 - **POST /api/users**: Use this endpoint to insert data from a CSV file into the database. The CSV file should be sent as a multipart/form-data request with the 'file' field containing the CSV file.
 
 - **GET /api/users**: Use this endpoint to filter users based on the query parameters. The API will compare the text passed in the query with every column of the 'users' table in the database and return the matching results.
-
-## Known Issues
-
-Due to time constraints and my limited recent exposure to the 'testing' topic, there is a possibility of some limitations or bugs in the current version of the API. Appreciate your understanding.
-
-## Conclusion
-
-Thank you for considering this API project for your job application. If you have any questions, please feel free to reach out. I appreciate your time and consideration.
-
-Best regards,
-_Giulia Moscoso_
