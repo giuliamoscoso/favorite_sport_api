@@ -1,6 +1,8 @@
 # API Project Readme
 
-This readme file provides an overview of the API project built with Node.js, TypeScript, and SQLite. The project includes a POST route for inserting data from a CSV file into a database and a GET route for filtering users based on the query parameters.
+[![Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-blue)](README.pt.md) [![English](https://img.shields.io/badge/Language-English-green)](README.md)
+
+This project is built with Node.js, TypeScript, and SQLite. The project includes a POST route for inserting data from a CSV file into a database and a GET route for filtering users based on the query parameters.
 
 ## Project Overview
 
@@ -8,13 +10,13 @@ The API project aims to provide a seamless integration between the frontend and 
 
 1. **POST /api/users**: This route allows you to insert data from a CSV file into the database. The CSV file should contain user information such as name, email, and address. The API will parse the CSV file and insert the data into the 'users' table in the SQLite database.
 
-2. **GET /api/users**: This route enables you to filter users based on the query parameters. The API will compare the text passed in the query with every column of the 'users' table in the database and return the matching results.
+2. **GET /api/users**: This route lets you filter users based on the query parameters. The API will compare the text passed in the query with every column of the 'users' table in the database and return the matching results.
 
 ## Technologies Used
 
 The project is built using the following technologies:
 
-- Node.js: A JavaScript runtime environment that allows us to run JavaScript code outside of a web browser.
+- Node.js: A JavaScript runtime environment that allows us to run JavaScript code outside a web browser.
 - TypeScript: A superset of JavaScript that adds static typing and other features to enhance code quality and maintainability.
 - SQLite: A lightweight, file-based database management system that provides a simple and efficient way to store and retrieve data.
 
