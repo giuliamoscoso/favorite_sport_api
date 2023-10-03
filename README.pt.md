@@ -1,4 +1,4 @@
-# Projeto API
+# API Esporte Favorito 
 
 [![Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-blue)](README.pt.md) [![English](https://img.shields.io/badge/Language-English-green)](README.md)
 
